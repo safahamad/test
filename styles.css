@@ -1,6 +1,9 @@
 body {
     margin: 0%;
-    background: palevioletred;
+    background: pink;
     text-align: center;
     border: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 120%;
+    color: purple;
 }
